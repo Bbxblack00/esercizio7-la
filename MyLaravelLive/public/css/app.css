@@ -15,3 +15,9 @@ body {
   flex-direction: column;
 }
 
+.container .row {
+  content: "";
+  display: table;
+  clear: both;
+}
+
